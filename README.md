@@ -5,6 +5,14 @@
   -Header
   -Login FOrm
   -sign up form
+  -form validations
+  -useref
+  -firebase
+  -deploying the app
+  -signup
+  -signin
+  -redux
+  -signout
 
 Features
 
